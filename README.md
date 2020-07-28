@@ -1,1 +1,1 @@
-Loja de compra de pizzas com JS puro e layout responsivo.
+Loja de compra de pizzas com JS, HTML e CCS puros e layout responsivo.
