@@ -1,0 +1,1 @@
+Loja de compra de pizzas com JS puro e layout responsivo.
